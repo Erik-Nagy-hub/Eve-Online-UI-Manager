@@ -18,7 +18,7 @@ A simple PowerShell utility for EVE Online players that lets you back up and res
 1. **Download** this repository or clone it.
 2. **Move the entire script folder** (containing `EVE_UI_Manager.ps1`) to your EVE UI settings directory, for example:
 
-C:\Users\<YourName>\AppData\Local\CCP\EVE<default_profile>\settings_Default\
+C:\Users\\<YourName>\AppData\Local\CCP\EVE\<default_profile>\settings_Default\
 
 
 *(This is where your `core_user_*.dat` and `core_char_*.dat` files are stored.)*
